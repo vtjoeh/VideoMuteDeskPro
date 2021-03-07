@@ -1,6 +1,6 @@
 # VideoMuteDeskPro
 
-Version 0.1 
+Version 0.1 <br/>
 Mutes video for the Desk Pro or DX-series from the touch panel or interface:  
 - Video Mute, Video Unmute and Lid Closed is indicated on the screen and touch panel button. 
 - At end of call video is automatically unmuted.   
