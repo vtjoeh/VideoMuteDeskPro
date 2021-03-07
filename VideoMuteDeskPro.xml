@@ -1,0 +1,13 @@
+<Extensions>
+  <Version>1.8</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>panel_video_mute</PanelId>
+    <Origin>local</Origin>
+    <Type>Statusbar</Type>
+    <Icon>Camera</Icon>
+    <Color>#FA00BB</Color>
+    <Name>Mute Video</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>
